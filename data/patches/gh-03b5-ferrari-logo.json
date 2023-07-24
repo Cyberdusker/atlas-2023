@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "Ferrari logo",
+	"description": "Italian luxury sports car manufacturer based in Maranello, Italy. Founded in 1939 by Enzo Ferrari",
+	"links": {
+		"website": [
+			"https://www.ferrari.com/it-IT"
+		]
+	},
+	"path": {
+		"104-191": [
+			[
+				58,
+				227
+			],
+			[
+				61,
+				225
+			],
+			[
+				69,
+				225
+			],
+			[
+				72,
+				227
+			],
+			[
+				72,
+				238
+			],
+			[
+				65,
+				244
+			],
+			[
+				58,
+				237
+			],
+			[
+				58,
+				226
+			]
+		]
+	},
+	"center": {
+		"104-191": [
+			65,
+			232
+		]
+	}
+}
